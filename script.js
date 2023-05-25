@@ -34,4 +34,7 @@ function calcular(event) {
       2
     )} <br/> você esta no estado de obesidade`;
   }
+
+  document.getElementById("altura").value = "";
+  document.getElementById("peso").value = "";
 }
